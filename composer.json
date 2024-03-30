@@ -1,0 +1,20 @@
+{
+    "name": "potter/socket",
+    "description": "PHP Socket Implementation",
+    "type": "metapackage",
+    "require": {
+        "php": "^8.3"
+    },
+    "suggest": {
+        "potter/components": "dev-main",
+        "potter/framework": "dev-main"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
