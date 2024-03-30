@@ -7,7 +7,7 @@
         "potter/socket-interfaces": "dev-main",
         "potter/socket-aware": "dev-main",
         "potter/socket-client": "dev-main",
-        "potter/socket-server-interface": "dev-main"
+        "potter/socket-server": "dev-main"
     },
     "suggest": {
         "potter/components": "dev-main",
